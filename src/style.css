@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App .item-task {
+  padding: 14px;
+  width: 250px;
+  margin: 0 auto;
+  text-align: left;
+  margin-top: 15px;
+  background: linear-gradient(
+    90deg,    
+    rgb(12, 15, 148) 0%,
+    rgb(12, 106, 194) 100%
+  );
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.App input {
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid #0c24ff;
+  outline: none;
+  background: transparent;
+}
